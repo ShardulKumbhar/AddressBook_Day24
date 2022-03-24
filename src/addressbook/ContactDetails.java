@@ -45,10 +45,9 @@ public class ContactDetails {
 		this.emailId = emailId;
 	}
 
-	/**
-	 * setters getters
-	 * @return
-	 */
+/*
+ * sttter and getters
+ */
 
 	public String getFirstName() {
 		return firstName;

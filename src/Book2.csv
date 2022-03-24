@@ -1,4 +1,4 @@
-FirstName,LastName,Address,city,state,zipCode,phoneNumber,emailId
-Shardul,Kumbhar,Goa,gadhingaj,maharashtar,75455,8899565554,shardul@gmail.com
-Shubham,Masti,B-sisco,chandgad,goa,2132,6526548652,shubham@gmail.com
-Vishal,Madholi,l-marin,mavan,karnatak,54566,5695486325,vishal23@gmail.com
+first name	lastname	address
+shardul	kumbhar	goa
+shubham	masti	maha
+vishal	madholi	karna
